@@ -74,7 +74,7 @@ CI/CD
 
 
 ## ✔️ ERD
-<img src="/uploads/ff4890edd9045f401596e3993b154ad5/초롱따라_erd.png"  width="695" height="842"/>
+![image](https://user-images.githubusercontent.com/63838039/235285439-93bb349f-46ea-4b53-aa63-30d277f197d9.png)
 
 
 <br />
